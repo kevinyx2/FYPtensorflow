@@ -1,0 +1,6 @@
+model_checkpoint_path: "modelnewishere.ckpt-1501"
+all_model_checkpoint_paths: "modelnewishere.ckpt-1101"
+all_model_checkpoint_paths: "modelnewishere.ckpt-1201"
+all_model_checkpoint_paths: "modelnewishere.ckpt-1301"
+all_model_checkpoint_paths: "modelnewishere.ckpt-1401"
+all_model_checkpoint_paths: "modelnewishere.ckpt-1501"
